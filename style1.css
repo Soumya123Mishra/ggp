@@ -1,5 +1,27 @@
 
+    nav{
+background:#blue;
+        height:80px;
+        width:100%;
+    }
+lable.logo{
+color:white;
+    font-size:35px;
+    line-height:80px;
+    pading: 0 100px;
+    font-weight:bold;
+}
+nav ul li a{
+color:white;
+    font-size:17px;
+    text-transform:uppercase;
+    border-radius:3px;
+}
+a.active,a:hover{
+background:#1b9bff;
+    transition:.6s;
     
+}
     .card{
     width:100%px;
       height:100%;
