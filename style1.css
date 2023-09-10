@@ -63,7 +63,7 @@ width:100%;
     font-family:"poppins",sans-serif;
     border:2px solid red;
 }
-@media (max-width:744px) {
+@media (max-width:470px) {
     .get-started-btn{
         margin:0 48px 0 0;
         padding:6px 18px;
