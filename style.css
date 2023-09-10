@@ -16,6 +16,6 @@ width:280px;
   transitition:0.5s ease-in-out;
 }
 .card:hover{
-transform:translate(20px);
+transform:translate(30px);
   
 }
