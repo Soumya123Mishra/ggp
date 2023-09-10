@@ -30,7 +30,6 @@ h1,h2,h3,h4,h5,h6{
     padding:10px 0px 10px 22px;
 }
 .nav-menu a{
-
     display:block;
     position:relative;
     color:hotpink;
@@ -60,7 +59,7 @@ width:100%;
     transition: 0.3s;
     font-size: 13px;
     display: inline-block;
-    font-weight: 400;
+    font-weight: 100;
     font-family:"poppins",sans-serif;
     border:2px solid red;
 }
