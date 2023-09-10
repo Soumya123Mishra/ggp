@@ -12,7 +12,6 @@ h1,h2,h3,h4,h5,h6{
     background:black;
     padding:15px;
 }
-
 .nav-menu ul{
     margin:0px;
     padding:0px;
@@ -35,7 +34,7 @@ h1,h2,h3,h4,h5,h6{
     color:hotpink;
     transition: 0.7s;
     font-size:14px;
-    font-weight:500px;
+    font-weight:300px;
     font-family:"Roboto",sans-serif;
     padding: 0 4px;
     text-decoration: uppercase;
