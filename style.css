@@ -1,21 +1,35 @@
-
 .wrapper{
-  display:flex;
-  width:70%;
-  justify-content:space-around;
-}
-.card{
-width:280px;
-  height:360px;
-  padding:2rem 1 rem;
-  background:#fff;
-  position:relative;
-  display:flex;
-  align-items:flex-end;
-  box-shadow:0px 7px 10px aqua;
-  transitition:0.5s ease-in-out;
-}
-.card:hover{
-transform:translate(30px);
-  
-}
+      display:flex;
+      width:70%;
+      justify-content:space-around;
+    }
+    .card{
+    width:100%px;
+      height:100%;
+      padding:2rem 1 rem;
+      background:#fff;
+      position:relative;
+      display:flex;
+      align-items:flex-end;
+      box-shadow:0px 7px 10px rgb(8, 242, 242);
+      transitition:0.5s ease-in-out;
+    }
+    .card:hover{
+    transform:translate(30px);
+      
+    }
+    .card.info{
+        opacity:1;
+        transform:translate(0px);
+
+    }
+    .card.info h1{
+        margin:0px;
+    }
+    .card.info p{
+        letter-sapcing:1px;
+        font-size:15px;
+        margin-top: 8px;
+        margin-bottom:20px;
+    }
+    
