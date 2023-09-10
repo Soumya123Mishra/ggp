@@ -1,6 +1,5 @@
  a{
     color:chartreuse;
-
    }
 a:hover{
     color:coral;
@@ -9,8 +8,6 @@ a:hover{
 h1,h2,h3,h4,h5,h6{
     font-family:"Roboto",sans-serif;
 }
-
-
 #header{
     background:black;
     padding:15px;
@@ -63,7 +60,7 @@ width:100%;
     transition: 0.3s;
     font-size: 13px;
     display: inline-block;
-    font-weight: 100;
+    font-weight:100;
     font-family:"poppins",sans-serif;
     border:2px solid red;
 }
@@ -108,7 +105,7 @@ width:100%;
 }
 
 .mobile-nav-overly{
-    width:100%;
+    width:40%;
     height: 100%;
     z-index: 9997;
     top: 0;
@@ -122,13 +119,11 @@ width:100%;
 }
 
 .mobile-nav-active{
-
     overflow: hidden;
 }
 .mobile-nav-active.mobile-nav{
 opacity: 1;
 visibility: visible;
-
 }
 .mobile-nav *{
     margin:0;
