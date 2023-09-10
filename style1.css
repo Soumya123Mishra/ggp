@@ -63,7 +63,7 @@ width:100%;
     font-family:"poppins",sans-serif;
     border:2px solid red;
 }
-@media screen(max-width:450px) {
+@media(max-width:450px) {
     .get-started-btn{
         margin:0 48px 0 0;
         padding:6px 18px;
@@ -79,13 +79,13 @@ width:100%;
     background: none;
     font-size:24px;
     transition: all 0.4s;
- outline:none !important;
+ outline:none;
     line-height:1;
     cursor:pointer;
     text-align: right;
 }
 .mobile-nav-toggle i{
-    color:mediumorchid;
+    color:red;
 
 }
 
@@ -105,7 +105,7 @@ width:100%;
     padding: 10px 0;
 }
 
-.mobile-nav-overlay{
+.mobile-nav-overly{
     width:40%;
     height: 100%;
     z-index: 9997;
@@ -123,8 +123,8 @@ width:100%;
     overflow: hidden;
 }
 .mobile-nav-active.mobile-nav{
-opacity: 1;
-visibility: visible;
+opacity:1;
+visibility:visible;
 }
 .mobile-nav *{
     margin:0;
