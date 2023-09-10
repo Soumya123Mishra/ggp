@@ -69,7 +69,7 @@ width:100%;
         padding:6px 18px;
     }
 }
-
+/*mobile nav menu*/
 .mobile-nav-toggle{
     position:fixed;
     top:18px;
@@ -105,7 +105,7 @@ width:100%;
     padding: 10px 0;
 }
 
-.mobile-nav-overly{
+.mobile-nav-overlay{
     width:40%;
     height: 100%;
     z-index: 9997;
