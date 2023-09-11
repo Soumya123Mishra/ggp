@@ -86,21 +86,6 @@ background:#79e71f;
     line-height:1;
     cursor:pointer;
     text-align: right;
- 
-}
-.mobile-nav-toggle{
-    position:fixed;
-    top:18px;
-    right:15px;
-    z-index:9998;
- border:0;
-    background: none;
-    font-size:24px;
-    transition: all 0.4s;
- outline:none;
-    line-height:1;
-    cursor:pointer;
-    text-align: right;
 }
 .mobile-nav-toggle i{
     color:red;
@@ -170,7 +155,7 @@ visibility:visible;
     font-size: 19px;
 }
 
-
+}
 
 
 
