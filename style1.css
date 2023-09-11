@@ -1,8 +1,8 @@
  a{
-    color:SlateBlue;
+    color:red;
    }
 a:hover{
-    color:#7FFFD4;
+    color:blue;
     text-decoration:none;
 }
 h1,h2,h3,h4,h5,h6{
@@ -12,15 +12,15 @@ h1,h2,h3,h4,h5,h6{
     background:black;
     padding:15px;
 }
-.nav-menu ul{
+.navbar-brand ul{
     margin:0;
     padding:0;
     list-style:none;
 }
-.nav-menu>ul{
+.navbar-brand>ul{
     display:flex;
 }
-.nav-menu>ul>li{
+.v>ul>li{
     position:relative;
     white-space:nowrap;
     padding:10px 0px 10px 22px;
