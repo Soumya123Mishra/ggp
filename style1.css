@@ -12,12 +12,12 @@ h1,h2,h3,h4,h5,h6{
     background:black;
     padding:15px;
 }
-.navbar-brand ul{
+.navbar ul{
     margin:0;
     padding:0;
     list-style:none;
 }
-.navbar-brand>ul{
+.navbar >ul{
     display:flex;
 }
 .v>ul>li{
@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
-.navbar-brand a{
+.navbar a{
 
     display:block;
     position:relative;
