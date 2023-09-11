@@ -72,7 +72,6 @@ background:yellow;
         margin:0 48px 0 0;
         padding:6px 18px;
     }
-
 .mobile-nav-toggle{
     position:fixed;
     top:18px;
@@ -82,8 +81,8 @@ background:yellow;
     background: none;
     font-size:24px;
     transition: all 0.4s;
- outline:none;
-    line-height:1;
+ outline:none   !important;
+    line-height:2;
     cursor:pointer;
     text-align: right;
 }
