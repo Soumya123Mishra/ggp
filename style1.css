@@ -67,7 +67,7 @@ background:#79e71f;
  color:white;
 }
 
-@media(max-width:550px) {
+@media(max-width:48em) {
     .get-started-btn{
         margin:0 48px 0 0;
         padding:6px 18px;
