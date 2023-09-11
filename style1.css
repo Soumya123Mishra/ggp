@@ -48,7 +48,24 @@ visibility: visible;
 
 width:100%;
 }
+.ham{
+display:none;
+ height:fit-content;
+ cursor:pointer;
+ padding:3px 8px;
+ border-radius:5px;
+ transition:0.2s;
+}
 
+.ham:hover{
+background:red;
+}
+.ham{
+width:30px;
+ height:2px;
+ margin-right:6px 0;
+ background:#212526;
+}
 .get-started-btn{
     margin-left:25px;
     color:white;
